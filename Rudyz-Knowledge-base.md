@@ -1,5 +1,5 @@
-# [Welcome to rzWiki - Rudyz Knowledge base]([https://github.com/6rz6/RzWiki/blob/main/RzWiki.md](https://github.com/6rz6/RzWiki/wiki))
-
+# [Welcome to rzWiki - Rudyz Knowledge base]([https://github.com/6rz6/RzWiki/blob/main/RzWiki.md](https://github.com/6rz6/RzWiki/blob/main/RzWiki.md))
+# [RzWikimediae]([https://github.com/6rz6/RzWiki/wiki/Rudyz-Knowledge-base](https://github.com/6rz6/RzWiki/wiki/Rudyz-Knowledge-base))
 
 ##  Table of Contents
 
