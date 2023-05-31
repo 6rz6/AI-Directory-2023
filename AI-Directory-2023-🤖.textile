@@ -1,11 +1,11 @@
-<h2><a href="https://github.com/6rz6/RzWiki/wiki/%F0%9F%A4%96-Artificial-Intelligence-Directory-2023-updated-AI's">Artificial Intelligence 🤖 Directory 2023</a></h2>
+<h2><a href="https://github.com/6rz6/RzWiki/wiki/%F0%9F%A4%96-Artificial-Intelligence-Directory-2023-updated-AI's">Artificial Intelligence Tools</a></h2>
 
 AI LLM Chatbots
 
-*      <a href="https://chat.openai.com/">ChatGPT</a> ⭐⭐⭐- GPT 3.5 Based Chatbot 
-*      <a href="https://platform.openai.com/playground">OpenAI Playground</a> ⭐⭐⭐- GPT-3 / GPT 3.5 / GPT-4 including 4 interaction modes
-*      <a href="https://bard.google.com/">Bard</a> ⭐⭐- Google's Chatbot
-*      <a href="https://www.phind.com/">Phind</a> - GPT-4 Dev Q&A AI / <a href="https://discord.com/invite/S25yW8TebZ">Discord</a> / <a href="https://pastebin.com/JJMVmUCN">GPT-4 Note</a>
+*      <a href="https://chat.openai.com/">⭐ChatGPT</a> - GPT 3.5 Based Chatbot 
+*      <a href="https://platform.openai.com/playground">⭐OpenAI Playground</a> - GPT-3 / GPT 3.5 / GPT-4 including 4 interaction modes
+*      <a href="https://bard.google.com/">⭐Bard</a> - Google's Chatbot
+*     <a href="https://www.phind.com/">Phind</a> - GPT-4 Dev Q&A AI / <a href="https://discord.com/invite/S25yW8TebZ">Discord</a> / <a href="https://pastebin.com/JJMVmUCN">GPT-4 Note</a>
 *      <a href="https://www.perplexity.ai/">Perplexity</a> or <a href="https://labs.kagi.com/fastgpt">FastGPT</a> - GPT-3.5 Q&A AI / <a href="https://discord.com/invite/perplexity-ai">Discord</a>
 *      <a href="https://github.com/oobabooga/text-generation-webui">Text Generation WebUI</a> - Self-Host Open Source LLMs / <a href="https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb">Collab</a>
 *      <a href="https://github.com/ggerganov/llama.cpp">llama.cpp</a> or <a href="https://stuff.serp.ai/l/lora-weights">ChatLLaMA</a> - Self-Host LLaMa Based Chatbots
