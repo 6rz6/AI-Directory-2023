@@ -14,7 +14,7 @@
        - **AI Indexes**
        - **FREE LLM AI Text Generators**
 
-1.  * [**Docker Tutorial from A-Z**](https://github.com/6rz6/6rz6/blob/main/Docker%20Tutorial%20For%20Dummy's%20from%20A-Z.md)
+1.  * [**Docker Tutorial from A-Z**](https://github.com/6rz6/RzWiki/wiki/Docker%20Tutorial%20For%20Dummy's%20from%20A-Z.md)
        - **Docker Setup**    
        - **Docker Install**            
        - **Docker Compose**            
