@@ -52,10 +52,10 @@
 
 <h3>Graphical AI's Visual Generators</h3>
 
-*       <a href="https://diffusionart.co/dreamlike-diffusion/">Dreamlike Diffusion</a> - Generates realistic photos using magic prompts ⭐⭐⭐⭐⭐
-*       <a href="https://diffusionart.co/conceptualizer/">Stable Diffusion</a> Conceptualize Online Image Generation
-*	<a href="https://www.midjourney.com/app/">Midjourney Discord server</a> - dreamlike art generator ⭐⭐⭐⭐
-*	<a href="https://app.songr.ai/">songR</a> - Generates Songs with Vocals and lyrics ⭐⭐
+*     <a href="https://diffusionart.co/dreamlike-diffusion/">Dreamlike Diffusion</a> - Generates realistic photos using magic prompts ⭐⭐⭐⭐⭐
+*     <a href="https://diffusionart.co/conceptualizer/">Stable Diffusion</a> - Conceptualize Online Image Generation
+*     <a href="https://www.midjourney.com/app/">Midjourney Discord server</a> - dreamlike art generator ⭐⭐⭐⭐
+*     <a href="https://app.songr.ai/">songR</a> - Generates Songs with Vocals and lyrics ⭐⭐
 
 <h3>AI Tools Plugins and addons</h3>
 
