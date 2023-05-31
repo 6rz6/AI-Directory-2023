@@ -44,10 +44,18 @@
 *     <a href="https://www.characterhub.org/">CharacterHub</a> - Characters for LLMs
 *     <a href="https://aianything.netlify.app/">AI Anything</a> - Create Chatbots
 *     <a href="https://github.com/Feedox/alt-gpt">Alt-GPT</a> - Create GPT Plugins
-*     <a href="https://github.com/Significant-Gravitas/Auto-GPT">Auto-GPT</a> - Autonomous GPT-4 / <a href="https://github.com/thecookingsenpai/autogpt-gui">GUI</a>
+*     <a href="https://github.com/Significant-Gravitas/Auto-GPT">Auto-GPT</a> - Autonomous GPT-4 ⭐⭐⭐⭐ 
+*     <a href="https://github.com/thecookingsenpai/autogpt-gui">Auto-GTP</a> -  GUI ⭐⭐⭐⭐
 *     <a href="https://github.com/muellerberndt/mini-agi">MiniAGI</a> - Autonomous GPT-3.5 / GPT-4
 *     <a href="https://kajiwoto.com/">Kajiwoto</a>, <a href="https://docs.miku.gg/">Miku</a> / <a href="https://discord.gg/3XPdpUdGgV">Discord</a> or <a href="https://agnai.chat/">Agnai</a> - AI Builders
 *     <a href="https://github.com/Cohee1207/SillyTavern">SillyTavern</a> - UI for Roleplaying Chatbots
+
+<h3>Graphical AI's Visual Generators</h3>
+
+*       <a href="https://diffusionart.co/dreamlike-diffusion/">Dreamlike Diffusion</a> - Generates realistic photos using magic prompts ⭐⭐⭐⭐⭐
+*       <a href="https://diffusionart.co/conceptualizer/">Stable Diffusion</a> Conceptualize Online Image Generation
+*	<a href="https://www.midjourney.com/app/">Midjourney Discord server</a> - dreamlike art generator ⭐⭐⭐⭐
+*	<a href="https://app.songr.ai/">songR</a> - Generates Songs with Vocals and lyrics ⭐⭐
 
 <h3>AI Tools Plugins and addons</h3>
 
