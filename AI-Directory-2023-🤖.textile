@@ -1,6 +1,6 @@
 <h2><a href="https://github.com/6rz6/RzWiki/wiki/%F0%9F%A4%96-Artificial-Intelligence-Directory-2023-updated-AI's">Artificial Intelligence Tools</a></h2>
 
-<h4>AI LLM Chatbots</h4>
+<h3>AI LLM Chatbots</h3>
 
 *      <a href="https://platform.openai.com/playground">OpenAI Playground</a> - GPT-3 / GPT 3.5 / GPT-4 including 4 interaction modes ⭐⭐⭐⭐⭐
 *      <a href="https://chat.openai.com/">ChatGPT</a> - OpenAI GPT 3.5 / GPT 4 Chatbot ⭐⭐⭐⭐
@@ -49,9 +49,9 @@
 *     <a href="https://kajiwoto.com/">Kajiwoto</a>, <a href="https://docs.miku.gg/">Miku</a> / <a href="https://discord.gg/3XPdpUdGgV">Discord</a> or <a href="https://agnai.chat/">Agnai</a> - AI Builders
 *     <a href="https://github.com/Cohee1207/SillyTavern">SillyTavern</a> - UI for Roleplaying Chatbots
 
-# ChatGPT Tools
+<h3>AI Tools Plugins and addons</h3>
 
-     * <a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a>, <a href="https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh">GPT Resources</a>, <a href="https://www.wikigpt3.com/">WikiGPT3</a>, <a href="https://github.com/radi-cho/awesome-gpt4">Awesome-GPT4</a> or <a href="https://saasgpters.com/">SaaS GPTers</a> - ChatGPT Resources
+* <a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a>, <a href="https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh">GPT Resources</a>, <a href="https://www.wikigpt3.com/">WikiGPT3</a>, <a href="https://github.com/radi-cho/awesome-gpt4">Awesome-GPT4</a> or <a href="https://saasgpters.com/">SaaS GPTers</a> - ChatGPT Resources
 *      <a href="https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/">SuperPower ChatGPT</a> / <a href="https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc">2</a> or <a href="https://merlin.foyer.work/">Merlin</a> - Enhancement Extensions
 *      <a href="https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D">FOFA</a> / <a href="https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D">2</a> - Find No-Login Frontends
 *      <a href="https://www.reddit.com/r/ChatGPT/">/r/ChatGPT</a> - ChatGPT Subreddit
@@ -80,7 +80,7 @@
 *     <a href="https://github.com/lvwzhen/ChatGPT-Matrix-Style">ChatGPT-Matrix-Style</a> - Matrix Theme
 *     <a href="https://github.com/Aesthetikx/openai_pipe">openai_pipe</a> - Unix Theme
 
-# AI Prompts Engineering 
+<h3>AI Prompts Engineering</h3> 
 
 *      <a href="https://prompts.chat/">Awesome ChatGPT Prompts</a> / <a href="https://github.com/f/awesome-chatgpt-prompts">2</a> - Prompt Directory
 *      <a href="https://www.promptingguide.ai/">Prompt Engineering Guide</a> or <a href="https://learnprompting.org/">Learn Prompting</a> - Prompting Guides
@@ -98,7 +98,7 @@
 *     <a href="https://github.com/benf2004/ChatGPT-Prompt-Genius">ChatGPT-History</a> - Prompt Management Extensions
 *     <a href="https://www.reddit.com/r/ChatGPTJailbreak/">/r/ChatGPTJailbreak</a> or <a href="https://www.reddit.com/r/GPT_jailbreaks/">/r/GPT_Jailbreaks</a> - GPT Jailbreak Subreddits
 
-# New AI release Indexes
+<h3>New AI release Indexes</h3>
 
 *     <a href="https://www.futurepedia.io/">Futurepedia</a> - AI Directory
 *     <a href="https://whoisdsmith.gitbook.io/ai-mf/">AI-MF</a> - AI Directory / <a href="https://github.com/whoisdsmith/AI-MTHRFCKR">GitHub</a>
@@ -126,7 +126,7 @@
 *     <a href="https://github.com/mrsaeeddev/free-ai-resources">free-ai-resources</a> - AI Learning Resources
 *     <a href="https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/">AI Reading List</a> - AI Research Papers
 
-#### AI Text Generators (Articles,PDF,Presentations)
+<h3>AI Text Generators (Articles,PDF,Presentations)</h3>
 
 *     <a href="https://ora.sh/openai/chatgpt">Ora</a> - GPT-3.5 Based AI
 *     <a href="https://chatbot.theb.ai/">BAI</a> - GPT-3.5 Based AI
