@@ -5,13 +5,16 @@
 
 1.  * [Knowledge-base](https://github.com/6rz6/RzWiki/wiki/Rudyz-Knowledge-base)
 1.  * [AI-Directory-2023](https://github.com/6rz6/RzWiki/wiki/%F0%9F%A4%96-Artificial-Intelligence-Directory-2023-updated-AI's)
-       - **Chatbot LLM AI's**
+       - **AI Chatbots**
     
-       - **Docker Install**
+       - **AI Tools**
             
-       - **Docker Compose**
+       - **AI Prompts**
             
-       - **Kubernates Kbs**
+       - **AI Indexes**
+
+       - **FREE LLM AI Text Generators**
+
 1.  * [Docker Tutorial from A-Z](https://github.com/6rz6/6rz6/blob/main/Docker%20Tutorial%20For%20Dummy's%20from%20A-Z.md)
        - **Docker Setup**
     
