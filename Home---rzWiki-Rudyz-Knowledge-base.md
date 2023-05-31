@@ -1,4 +1,3 @@
- ## **rzWiki Rudyz Knowledge base**
  ## **rzWiki Table of Contents**
 
 1.  * [**Knowledge Base**](https://github.com/6rz6/RzWiki/wiki/Rudyz-Knowledge-base)
