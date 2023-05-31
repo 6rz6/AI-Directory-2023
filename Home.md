@@ -7,14 +7,14 @@
        - **Sociology**
        - **Maya Mechanics**
 
-1.  * [**AI Directory 2023**](https://github.com/6rz6/RzWiki/wiki/%F0%9F%A4%96-Artificial-Intelligence-Directory-2023-updated-AI's)
+1.  * [**AI Directory 2023**](https://github.com/6rz6/RzWiki/wiki/AI-Directory-2023-%F0%9F%A4%96)
        - **AI Chatbots**    
        - **AI Tools**            
        - **AI Prompts**            
        - **AI Indexes**
        - **FREE LLM AI Text Generators**
 
-1.  * [**Docker Tutorial from A-Z**](https://github.com/6rz6/RzWiki/wiki/Docker%20Tutorial%20For%20Dummy's%20from%20A-Z.md)
+1.  * [**Docker Tutorial from A-Z**](https://github.com/6rz6/RzWiki/wiki/Docker-Full-A-to-Z-tutorial)
        - **Docker Setup**    
        - **Docker Install**            
        - **Docker Compose**            
