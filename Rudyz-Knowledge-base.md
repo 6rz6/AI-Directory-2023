@@ -1,5 +1,3 @@
-# [Welcome to rzWiki - Rudyz Knowledge base](https://github.com/6rz6/RzWiki/blob/main/RzWiki.md)
-
 ##  Table of Contents
   
 ### Science
