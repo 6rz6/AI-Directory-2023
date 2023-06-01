@@ -1,4 +1,4 @@
-<p align="center"><h1>🧠 Full AI Directory June 2023</h1></p>
+<p align="center"><h1>✨Full AI Directory June 2023✨</h1></p>
   
        - **AI Chatbots**    
        - **AI Tools**            
