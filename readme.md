@@ -11,7 +11,7 @@
   </table> 
 <br/>
 
-[Dreamlike DiffusionGenerates realistic photos  ⭐⭐⭐⭐⭐](https://diffusionart.co/dreamlike-diffusion/)  By Gradio 
+[Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](https://diffusionart.co/dreamlike-diffusion/)  By Gradio 
 <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"><img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 100%;"></a><br></p>
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/0895ebd1-f0f0-4d11-8077-a4b5e273f65c" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/818ebbfa-27b0-4c42-8f7d-97736c24523e" style="width:400px; height:400px;">
