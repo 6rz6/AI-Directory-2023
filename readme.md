@@ -5,7 +5,7 @@
        - **AI Prompts**            
        - **AI Indexes**
        - **FREE Graphical AIs**
-**[View the full directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki))** 
+**[View the full directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki)** 
 <br/>
 Enjoy art created using magic prompts by June's Recommended AI: <br/>
 [Dreamlike DiffusionGenerates realistic photos  ⭐⭐⭐⭐⭐](https://diffusionart.co/dreamlike-diffusion/)  By Gradio <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"><img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 100%;"></a><br></p>
@@ -17,6 +17,7 @@ Enjoy art created using magic prompts by June's Recommended AI: <br/>
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
+**[View the full Photo Album on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki)** 
 
 
 
