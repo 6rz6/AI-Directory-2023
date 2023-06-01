@@ -14,11 +14,11 @@ Enjoy art created using magic prompts by June's Recommended AI: <br/>
 <a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"><img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 100%;"></a><br></p>
 
 
-<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/818ebbfa-27b0-4c42-8f7d-97736c24523e" style="max-width:40%; max-height:40%;"></div>
-<span width="300" height="300">![image](https://github.com/6rz6/AI-Directory-2023/assets/102882394/43864167-4672-4ea1-8a22-0c5e832f80bf)</span>
-<span width="300" height="300">![w3](https://github.com/6rz6/AI-Directory-2023/assets/102882394/472c4334-0349-4e2d-8a42-78708cfab506)</span>
-<span width="300" height="300">![w1](https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d)</span>
-<span width="300" height="300">![male Tatoo1 model](https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8)</span>
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/818ebbfa-27b0-4c42-8f7d-97736c24523e" style="width:400px; height:400px;">
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/43864167-4672-4ea1-8a22-0c5e832f80bf" style="width:400px; height:400px;">
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/472c4334-0349-4e2d-8a42-78708cfab506" style="width:400px; height:400px;">
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
 
 <p><a href="https://pypi.org/project/gradio/" rel="nofollow"><img src="https://camo.githubusercontent.com/e65f2e19ef5246344e0b22ec2e1c3317a6f88975cd34939c78d3d7d20c0d5331/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f67726164696f" alt="PyPI" data-canonical-src="https://img.shields.io/pypi/v/gradio" style="max-width: 100%;"></a>
