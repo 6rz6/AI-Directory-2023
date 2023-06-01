@@ -20,7 +20,7 @@
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
-**[View the full Photo Album on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki)** 
+**[View the full Photo Album on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)** 
 
 
 
