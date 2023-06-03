@@ -3,11 +3,12 @@
 <p align="center">[View the full AI directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki) </p>
 
   <table><tr>
-  <td>*<a href="registry.hf.space/phenomenon1981-dreamlikeart-photoreal-2-0:latest python app.py">*AI Chatbots*</a></td>    
-  <td>*<a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons">*AI Tools*</a></td>
-  <td>*<a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-prompts-engineering">*AI Prompts*</a></td>>            
-  <td>*<a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes">*AI Indexes*</a></td>
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots">*AI Chatbots*</a></td>    
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons">*AI Tools*</a></td>
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-prompts-engineering">*AI Prompts*</a></td>>            
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes">*AI Indexes*</a></td>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators">*PhotoReal Graphical AIs*</td>
+  </tr>
   </table> 
 <br/>
 
