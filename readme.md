@@ -1,18 +1,17 @@
 <h1>✨Full AI Directory June 2023✨</h1>
-<br/>
-<a href="https://github.com/6rz6/AI-Directory-2023/wiki">View the full AI directory on GitHub</a>
-<table>
-  <tr>
+
+
+  [ View the full AI directory on GitHub ](https://github.com/6rz6/AI-Directory-2023/wiki)
+
+  <table>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots"> *AI Chatbots* </a></td>    
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons"> *AI Tools* </a></td>
-  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-prompts-engineering">*AI Prompts*</a></td>>            
-  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes">*AI Indexes*</a></td>
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-prompts-engineering"> *AI Prompts* </a></td>>            
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes"> *AI Indexes* </a></td>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators"> *PhotoReal Graphical AIs* </a></td>
-  </tr>
   </table> 
 
-
-[Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)  
+[Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)  
 <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"><img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 80%;"></a></p><br/>
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/0895ebd1-f0f0-4d11-8077-a4b5e273f65c" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/818ebbfa-27b0-4c42-8f7d-97736c24523e" style="width:400px; height:400px;">
