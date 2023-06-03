@@ -1,7 +1,6 @@
-<p align="center"><h1>✨Full AI Directory June 2023✨</h1></p>
-
+<h1>✨Full AI Directory June 2023✨</h1>
+<br/>
 <a href="https://github.com/6rz6/AI-Directory-2023/wiki"> *View the full AI directory on GitHub* </a>
-
   <table><tr>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots">*AI Chatbots*</a></td>    
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons">*AI Tools*</a></td>
@@ -10,7 +9,7 @@
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators"> *PhotoReal Graphical AIs* </a></td>
   </tr>
   </table> 
-<br/>
+
 
 [Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)  
 <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"><img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 80%;"></a></p><br/>
