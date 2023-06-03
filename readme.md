@@ -1,6 +1,6 @@
 <p align="center"><h1>✨Full AI Directory June 2023✨</h1></p>
 
-[View the full AI directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki) 
+<p align="center">[View the full AI directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki) </p>
 
   <table><tr>
   <td>*AI Chatbots*</td>    
