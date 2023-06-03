@@ -1,10 +1,10 @@
 <h1>✨Full AI Directory June 2023✨</h1>
 <br/>
-<strong><a href="https://github.com/6rz6/AI-Directory-2023/wiki"> View the full AI directory on GitHub</a></strong><br/>
+<a href="https://github.com/6rz6/AI-Directory-2023/wiki">View the full AI directory on GitHub</a>
 <table>
   <tr>
-  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots">*AI Chatbots*</a></td>    
-  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons">*AI Tools*</a></td>
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots"> *AI Chatbots* </a></td>    
+  <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons"> *AI Tools* </a></td>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-prompts-engineering">*AI Prompts*</a></td>>            
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes">*AI Indexes*</a></td>
   <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators"> *PhotoReal Graphical AIs* </a></td>
