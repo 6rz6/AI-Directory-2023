@@ -10,7 +10,7 @@
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators"> *PhotoReal Graphical AIs* </a></td>
 </tr></table>
 
-Personally Recommended, Try it yourself:
+Personally Recommended,
 **[✨Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)** 
 
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/0895ebd1-f0f0-4d11-8077-a4b5e273f65c" style="width:400px; height:400px;">
