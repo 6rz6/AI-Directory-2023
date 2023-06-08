@@ -1,7 +1,7 @@
 <h1>✨Full AI Directory June 2023✨</h1>
 
-[ View the full AI directory on GitHub or choose a category:](https://github.com/6rz6/AI-Directory-2023/wiki)
-
+[ View the full AI directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki)
+<br/>
 <table><tr>
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots"> *AI Chatbots* </a></td>    
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons"> *AI Tools* </a></td>
@@ -21,8 +21,10 @@ Personally Recommended,
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
 **[⭐View the full AI Generated Photo Albums on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)** 
-
- [Contributor](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)  <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"> <img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 80%;"></a></p><br/>
+[Or Try it yourself](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)
+<br/>
+<p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"> <img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 80%;"></a></p><br/>
+[Contributor](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)
 
 
 
