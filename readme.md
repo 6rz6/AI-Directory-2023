@@ -1,12 +1,7 @@
 <div align="center">
   <h1>✨Full AI Directory June 2023✨</h1>
-  
-  <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
-    <h2>Artificial Intelligence AI-powered tools - <i>Updated @ 10 Jun. 2023 by RZ</i></h2> 
- 
-</div>
-
+  
 |                                                                     |                                                           |                                                            | 
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚[Audio Editing](#audio-editing)                        |
@@ -21,11 +16,10 @@
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
 | 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
-</div>  
 
-<div align="center">
- 
-**[✨ Dreamlike Diffusion AI-powered Text to Realistic Photo generator  ⭐⭐⭐⭐⭐] (https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**
+</div>
+
+**[✨Dreamlike Diffusion AI-powered Text to Realistic Photo generator ⭐⭐⭐⭐⭐](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**
   
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/0895ebd1-f0f0-4d11-8077-a4b5e273f65c" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/818ebbfa-27b0-4c42-8f7d-97736c24523e" style="width:400px; height:400px;">
@@ -34,10 +28,9 @@
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
-**[⭐ View the full AI Generated Photo Albums on GitHub and Try it yourself] (https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**   
-</div>
+**[⭐ View the full AI Generated Photo Albums on GitHub and Try it yourself](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**  
 
----
+## Index
 
 <table><tr>
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots"> *AI Chatbots* </a></td>    
