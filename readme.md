@@ -17,9 +17,10 @@
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
-**[full AI Directory](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)**
+| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |    **[✨Full AI Directory✨](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)**                                                       |
 
+ < div align="center">
+  
 **[⭐⭐Dreamlike Diffusion AI-powered Text to Realistic Photo generator ⭐⭐]**
   
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/0895ebd1-f0f0-4d11-8077-a4b5e273f65c" style="width:400px; height:400px;">
@@ -29,4 +30,5 @@
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
-**[⭐ View the full AI Generated Photo Albums on GitHub ⭐](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**  
+**[⭐ View the full AI Generated Photo Albums on GitHub and try it yourself](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)**  
+    </div>
