@@ -1,9 +1,10 @@
 <div align="center"/>
   
 <h1>✨AI Tools and apps Directory June 2023✨</h1>
-<img src="https://user-images.githubusercontent.com/102882394/242529253-bf0b3fe4-e8f5-491f-9f48-2ce5b41e784a.jpeg" width="15%" height="15%"><img src="https://user-images.githubusercontent.com/102882394/242529256-638fb49b-3e68-4dc2-9f08-897a697ebdf8.jpeg" width="15%" height="15%"><img src="https://user-images.githubusercontent.com/102882394/242529271-1ef5ef33-36b4-484a-beee-4138a65ffaed.jpeg" width="15%" height="15%"><img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4d67fa8f-0009-4359-a239-a58490e689e2.jpg" width="15%" height="15%">
+<img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/408c9754-44ac-494c-8afa-f9441c832c47" width="15%" height="15%"><img src="https://user-images.githubusercontent.com/102882394/242529253-bf0b3fe4-e8f5-491f-9f48-2ce5b41e784a.jpeg" width="15%" height="15%"><img src="https://user-images.githubusercontent.com/102882394/242529271-1ef5ef33-36b4-484a-beee-4138a65ffaed.jpeg" width="15%" height="15%"><img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4d67fa8f-0009-4359-a239-a58490e689e2.jpg" width="15%" height="15%"><img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/f0d29f3b-1676-4f7f-b2b9-374b0412a6cb" width="15%" height="15%">
 
 <table/><tr/><td align="left"/>
+
   
 |                                                                     |                                                           |                                                            | 
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
