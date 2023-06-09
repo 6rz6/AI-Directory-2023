@@ -32,6 +32,6 @@
 
 <br/>
 
-[✨✨ View more & Try it free on GitHub ✨✨](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research) 
+[✨✨ View the full AI Album & Try it free on GitHub ✨✨](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research) 
 
 </div>
