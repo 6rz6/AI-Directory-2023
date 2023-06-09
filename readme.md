@@ -8,7 +8,14 @@
     <br />
 
 ## Index
-                        
+</div>
+
+
+
+
+<div>
+  
+|                                                                     |                                                           |                                                           |
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚[Audio Editing](#audio-editing)                        |
 | 😎 [Avatars](#avatars)                                              | 🤖💬 [Chat Bot](#chat-bot)                                | 💻 [Code & Database Assistant](#code--database-assistant) |
@@ -22,11 +29,10 @@
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
 | 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
-  
----
+</div>  
 
-[ View the full AI directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki)
-<br/>
+**[⭐View the full AI Directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)
+
 <table><tr>
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-llm-chatbots"> *AI Chatbots* </a></td>    
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#ai-tools-plugins-and-addons"> *AI Tools* </a></td>
@@ -54,33 +60,6 @@ Personally Recommended <i>Artificial Intelligence AI-powered FREE Text to Realis
 </div>
 
 
-<div align="center">
-    <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
-<!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
-    <h1>1000 AI collection tools</h1>
-    <i>More than 1000 Artificial Intelligence AI-powered tools</i>
-    <br />
-    <i>categorized & updated 08 Feb. 2023 </i>
-    <br />
-</div>
-
-
-## Index
-
-|                                                                     |                                                           |                                                           |
-|---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
-| 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚[Audio Editing](#audio-editing)                        |
-| 😎 [Avatars](#avatars)                                              | 🤖💬 [Chat Bot](#chat-bot)                                | 💻 [Code & Database Assistant](#code--database-assistant) |
-| 📠 [Content Generation & SEO](#content-generation--seo)             | 🧰 [Creators Toolkit](#creators-toolkit)                  | 👨‍💻 [Customer Support](#customer-support)               |
-| 📧 [Email Assistant](#email-assistant)                              | 👩‍🎤 [Fashion](#fashion)                                 | 🤪 [Fun](#fun)                                            |
-| 🎮 [Gaming](#gaming)                                                | 🎁 [Gift Ideas](#gift-ideas)                              | 👩‍⚕️ [Healthcare](#healthcare)                           |
-| 👩‍💼 [Human Resources & Resume](#human-resources--resume)          | 👩‍⚖️ [Legal](#legal)                                     | ⚜️ [Logo Generator](#logo-generator)                      |
-| 🎼 [Music](#music)                                                  | 📸 [Photo & Image Editing](#photo--image-editing)         | 🔌 [Plugins & Extensions](#plugins--extensions)           |
-| 🗳 [Reviews & Recommendations](#reviews--recommendations)           | 💰 [Sales & Marketing](#sales--marketing)                 | 🔍 [Search Engines](#search-engines)                      |
-| 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
-| 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
-| ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
 
 ---
 
