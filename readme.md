@@ -3,7 +3,7 @@
 <h1>✨Full AI Directory June 2023✨</h1>
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
  
-<table/><tr/><td/>
+<table/><tr/><td align="left"/>
   
 |                                                                     |                                                           |                                                            | 
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
