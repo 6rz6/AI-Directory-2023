@@ -1,9 +1,10 @@
-<div align="left">
+<div align="center"/>
   
 <h1>✨Full AI Directory June 2023✨</h1>
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
-</div>  
-
+ 
+<table/><tr/><td/>
+  
 |                                                                     |                                                           |                                                            | 
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | 🏯 [Architecture & Interior Design](#architecture--interior-design) | 🌄 [Art & Image Generator](#art--image-generator)         | 🎚[Audio Editing](#audio-editing)                        |
@@ -18,8 +19,8 @@
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
 | 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |    **[✨Full AI Directory✨](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)**                                                       |
-
- < div align="center">
+  </td></tr></table>
+  
   
 **[⭐⭐Dreamlike Diffusion AI-powered Text to Realistic Photo generator ⭐⭐]**
   
