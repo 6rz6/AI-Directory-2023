@@ -8,12 +8,6 @@
     <br />
 
 ## Index
-</div>
-
-
-
-
-<div>
   
 |                                                                     |                                                           |                                                           |
 |---------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -31,6 +25,8 @@
 | 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |                                                           |
 </div>  
 
+<div align="center">
+
 **[⭐View the full AI Directory on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)
 
 <table><tr>
@@ -40,7 +36,7 @@
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#new-ai-release-indexes"> *AI Indexes* </a></td>
 <td><a href="https://github.com/6rz6/AI-Directory-2023/blob/master/AI-Directory-2023.textile#graphical-ais-visual-generators"> *PhotoReal Graphical AIs* </a></td>
 </tr></table>
-
+  
 Personally Recommended <i>Artificial Intelligence AI-powered FREE Text to Realistic Photo generator</i>,
 **[✨Dreamlike Diffusion Generates realistic photos  ⭐⭐⭐⭐⭐](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)** 
 
@@ -51,15 +47,15 @@ Personally Recommended <i>Artificial Intelligence AI-powered FREE Text to Realis
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/5a83a071-a4a3-44e7-800c-17c9e6388f8d" style="width:400px; height:400px;">
 <img src="https://github.com/6rz6/AI-Directory-2023/assets/102882394/4e82e632-9a44-4436-a752-782d104210a8" style="width:400px; height:400px;">
 
-<div align="center">
+
 **[⭐View the full AI Generated Photo Albums on GitHub](https://github.com/6rz6/AI-Directory-2023/wiki/AI-Generated-Photos,-Realistic-photo-prompt-research)** 
+  
 [Or Try it yourself](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)
+  
 <br/>
 <p><a href="https://github.com/gradio-app/gradio/actions/workflows/ui.yml"> <img src="https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg" alt="gradio-ui" style="max-width: 80%;"></a></p><br/>
 [Contributor](https://huggingface.co/spaces/phenomenon1981/DreamlikeArt-PhotoReal-2.0)
 </div>
-
-
 
 ---
 
