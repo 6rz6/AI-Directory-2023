@@ -19,7 +19,7 @@
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
 | 📝 [Text To Speech](#text-to-speech)                                | 🇺🇳 [Translation & Transcript](#translation--transcript) | 🎬 [Video](#video)                                        |
 | ✍️ [Writing Assistant](#writing-assistant)                          | 💁 [Other](#other)                                        | 🛫 [Travel](#travel)                                      |
-| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |    **[✨Full AI Directory✨](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index---Tested-and-updated-AI's-2023)**                                                       |
+| 💲 [Finance](#finance)                                              | 🕵️ [Detecting AI](#detecting-ai)                         |    **[✨Full AI Directory✨](https://github.com/6rz6/AI-Directory-2023/wiki/Artificial-Intelligence-apps-Index-Tested-and-updated-AI's-2023)**                                                       |
   </td></tr></table>
   
  **⭐⭐Dreamlike Diffusion AI-powered Text to Realistic Photo generator ⭐⭐** 
